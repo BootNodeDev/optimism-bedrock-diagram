@@ -1,1 +1,3 @@
-# optimism-bedrock-diagram
+# Optimism Bedrock Diagram
+
+![Optimism Bedrock diagram](optimismBedrockDiagram.svg)
